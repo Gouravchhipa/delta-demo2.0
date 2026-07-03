@@ -1,2 +1,3 @@
 # delta-demo2.0
 This is a demo for git and dithub class...
+add some new liles.
